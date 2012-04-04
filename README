@@ -1,0 +1,10 @@
+Bienvenue sur le lab 3 
+
+Commandes utiles :
+
+git commit -m 'titre du commit'
+
+git remote add origin git@github.com:gigapoc/Lab3.git
+git push -u origin master
+//Synchro avec le serveur
+
